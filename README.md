@@ -1,1 +1,1 @@
-# Time-Series-Data-analysis-model-predictor-
+# Time Series Data analysis with AR and ARMA models
